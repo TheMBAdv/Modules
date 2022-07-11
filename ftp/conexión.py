@@ -102,8 +102,3 @@ def moverse(host, user, password):
                 
         ftp.close()
         
-moverse(
-    host="192.168.0.18",
-    user="administrador",
-    password="noeeag",
-)
