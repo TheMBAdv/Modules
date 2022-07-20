@@ -13,9 +13,6 @@ CC:{CC}
 
     context = ssl.create_default_context()
     
-    message.replace("[", " ")
-    message.replace("]", " ")
-    
     receiver_email.append(CC)
     
     with smtplib.SMTP_SSL(SMTP, PORT, context=context) as server:
