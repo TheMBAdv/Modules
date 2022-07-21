@@ -24,5 +24,5 @@ CC:{CC}
 
 
 
-mailText("informatica@kingregal.com", "8x9J9b~n", ["argellin18@gmail.com"], "hola", "Esto es una prueba", "mail.aws.cloud-services.es", 465, "informatica@kingregal.com")
+
 
